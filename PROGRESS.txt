@@ -1,0 +1,3 @@
+STATUS: ghostfrog-media INITIALIZED.
+CURRENT QUOTA: 0/3 Veo, 0/50 Images.
+NEXT TASK: Run Scout Agent on RESEARCH.md to find first niche.
