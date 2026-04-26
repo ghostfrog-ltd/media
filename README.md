@@ -1,4 +1,4 @@
-# ghostfrog-media
+# Ghostfrog Media
 
 System Architecture & Code Generation Request: Local AI Avatar Pipeline
 
