@@ -9,7 +9,7 @@ I am building a 100% local, autonomous video generation pipeline for YouTube Sho
 
 Strict Constraints:
 
-Zero Cloud APIs: Do not suggest OpenAI, HeyGen, ElevenLabs, or any paid cloud services. Everything must run locally.
+Zero Cloud APIs: Do not suggest OpenAI, HeyGen, ElevenLabs, or any paid cloud services. Everything must run locally - However, it maybe worthwhile asking Gemini Via API about Popular topics and for doing research.
 
 Apple Silicon Optimization: All machine learning libraries must target Apple's mps (Metal Performance Shaders) or use the MLX framework.
 
